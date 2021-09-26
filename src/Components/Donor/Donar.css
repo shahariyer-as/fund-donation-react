@@ -31,3 +31,12 @@
 .linkedin-icon {
     font-size: 30px;
 }
+
+.btn-color {
+    background-color: rgb(168, 52, 52);
+    color: white;
+}
+
+.icon {
+    margin-right: 5px;
+}

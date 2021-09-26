@@ -22,7 +22,7 @@ const Donor = (props) => {
             <h6>Net Worth: {netWorth}</h6>
             <h6>Donation : $ {donate}</h6>
             <p className="card-text">{otherAssets.slice(0, 24)}</p>
-            <button onClick={() => props.countDonor(props.donor)} className="btn btn-danger"> <i className="fas fa-donate btn-icon"></i>Donate</button>
+            <button onClick={() => props.countDonor(props.donor)} className="btn btn-color"> <i className="fas fa-hand-holding-usd icon"></i>Donate</button>
             <div className="d-flex justify-content-center align-items-center mt-3 social-icon">
               <i class="fab fa-facebook facebook-icon me-3"></i>
               <i class="fab fa-linkedin-in me-3 linkedin-icon"></i>

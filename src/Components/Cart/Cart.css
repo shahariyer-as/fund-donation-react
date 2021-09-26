@@ -1,7 +1,9 @@
-.cart-area{
-    border: 1px solid bisque;
+.cart-area {
+    border: 2px solid rgb(157, 125, 77);
     padding: 30px 10px;
-    background-color: blanchedalmond;
+    background-color: rgb(168, 52, 52);
     border-radius: 5px;
     margin-bottom: 20px;
+    color: white;
+    box-shadow: 18px 21px 13px 4px rgba(12, 11, 11, 0.73);
 }
