@@ -1,0 +1,25 @@
+.header-area {
+    padding: 30px 0;
+}
+
+.title {
+    font-size: 50px;
+    color: hsl(276, 14%, 93%);
+}
+
+.discription {
+    color: #fff9f9;
+    margin: 20px 0;
+}
+
+.header-area {
+    text-align: center;
+    border: 2px solid hsl(0, 90%, 52%);
+    background-color: hsl(36, 34%, 46%);
+    margin-bottom: 30px;
+
+}
+
+.budget-amount {
+    color: rgb(245, 245, 245)
+}

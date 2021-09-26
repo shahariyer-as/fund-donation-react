@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Jeff Bezos",
+      "id": 1,
+      "donate": 68890,
+      "img": "https://www.investopedia.com/thmb/tSwxM9QX5OHrhE-PGc4kJM4Pv8I=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1036094130-cf8da629f9b44c81a0b1398311ac5787.jpg",
+      "founder": "Amazon",
+      "age": 58,
+      "residence": "Seattle",
+      "netWorth": "$177 billion",
+      "otherAssets": "Blue Origin ($7.15 billion private assets), The Washington Post ($250 million private assets), and $13.4 billion in cash2"
+    },
+    {
+      "name": "Elon Musk",
+      "id": 2,
+      "donate": 87679,
+      "img": "https://www.investopedia.com/thmb/otMmLRn6NvfUnec6oc5NoxCyxJo=/5760x3840/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215628293-c32a14bc41c34aa9adee9e41f6c7fb68.jpg",
+      "founder": "Space X ",
+      "age": 50,
+      "netWorth": "$151 billion1",
+      "residence": "Austin, Texas",
+      "otherAssets": "Space Exploration Technologies ($29.8 billion private assets) and The Boring Company ($101 million private assets)"
+    },
+    {
+      "name": "Bernard Arnault",
+      "id": 3,
+      "donate": 99678,
+      "img": "https://www.investopedia.com/thmb/VlGMJhb0sSHjxDWCEygMFWmkCz0=/5760x3840/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-696695914-895a5475a7f8412c9239900be0ea5179.jpg",
+      "founder": "LVMH",
+      "age": 52,
+      "netWorth": "$150 billion",
+      "residence": "Paris",
+      "otherAssets": "Moelis & Company equity ($23.3 billion public assets), Hermès equity ($2.23 billion public assets), Carrefour equity ($900 million public assets), and $9.48 billion in cash25"
+    },
+    {
+      "name": "Bill Gates",
+      "id": 4,
+      "donate": 97878,
+      "img": "https://www.investopedia.com/thmb/icJdqw3xd1D35PRSBeKd-cl6mYI=/4500x3000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-948065808-ba10e6df430c414fbc496dededf1db2b.jpg",
+      "founder": "Microsoft",
+      "age": "65",
+      "netWorth": "$124 billion",
+      "residence": "Medina, Washington",
+      "otherAssets": "Moelis & Company equity ($28.3 billion public assets), Hermès equity ($2.13 billion public assets), Carrefour equity ($900 million public assets)"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "id": 5,
+      "donate": 76775,
+      "img": "https://www.investopedia.com/thmb/5vTHQfH-3s7E9s_-CbSC1ZK0wsI=/4234x3271/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-688402250-c3fd58b6a99a4729a821205bfac67168.jpg",
+      "founder": "Facebook",
+      "age": 37,
+      "netWorth": "$100 billion",
+      "residence": "Palo Alto, Calif.",
+      "otherAssets": "$3.35 billion in cash and $225 million in real estate"
+    },
+    {
+      "name": "Warren Buffett",
+      "id": 6,
+      "donate": 94548,
+      "img": "https://www.investopedia.com/thmb/QU83H3zJ_8Af_KqdhNvhTP2YsCI=/3000x2101/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-540179188-f820573a1328459cb5cedac011088d4c.jpg",
+      "founder": "Berkshire Hathaway ",
+      "age": 91,
+      "netWorth": "$96 billion",
+      "residence": "Omaha, Nebraska",
+      "otherAssets": "$2.35 billion in cash and $125 million in real estate"
+    },
+    {
+      "name": "Larry Ellison",
+      "id": 7,
+      "donate": 96734,
+      "img": "https://www.investopedia.com/thmb/RtSXbiIpriVRMRjiAivzBVtIMY4=/5184x3456/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1183284102-5aa79849742e4d3e9916fe605a14d803.jpg",
+      "founder": " Oracle (ORCL)",
+      "age": 77,
+      "netWorth": "$95 billion",
+      "residence": "Lanai, Hawaii",
+      "otherAssets": "$3.35 billion in cash and $225 million in real estate"
+    },
+    {
+      "name": "Larry Page",
+      "id": 8,
+      "donate": 67788,
+      "img": "https://www.investopedia.com/thmb/p0Fmg9R6XodoQtJraaWrWZjU_T8=/3000x2009/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-144948913-67ccee1c4f4c4845b69f4deb67bc6c7c.jpg",
+      "founder": "Alphabet(GOOG)",
+      "age": 48,
+      "netWorth": "$92 billion",
+      "residence": "Palo Alto, California",
+      "otherAssets": "Tesla equity ($9.1 billion public assets) and $10.6 billion in cash"
+    },
+    {
+      "name": "Sergey Brin",
+      "id": 9,
+      "donate": 6578893,
+      "img": "https://www.investopedia.com/thmb/GTiKbeMB7jO7KtkO7PXEufXMg18=/3000x2077/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-627820272-3ccd2a0a1b824125872f49601ef3bed6.jpg",
+      "founder": "Alphabet(GOOG)",
+      "age": 48,
+      "netWorth": "$89 billion",
+      "residence": "Los Altos, California",
+      "otherAssets": "Tesla equity ($9.1 billion public assets) and $10.6 billion in cash"
+    }
+  ]
