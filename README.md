@@ -3,11 +3,10 @@
 Site name: Donate UNISEF
 
 <!-- live site link  -->
-#  site link : https://admiring-wiles-bd865e.netlify.app/
+
+#  https://super-rich-ass8-37d26f.netlify.app/
 
 
-# npm start 
-site will be open in  http://localhost:3000/
 
 <!-- fake json data  -->
 
